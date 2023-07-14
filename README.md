@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rex4God
-- 👀 I’m a nodejs backend developer
+- 👀 I’m a backend developer(NodeJS and Java)
 - 🌱 l love learning new things
 
 
